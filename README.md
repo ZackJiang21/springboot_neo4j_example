@@ -1,8 +1,6 @@
 
 
-# Springboot整合neo4j OGM框架
-
-[TOC]
+# Springboot整合neo4j OGM框架实践
 
 ## 1. 数据准备
 
