@@ -197,7 +197,7 @@ public class PersonController {
 
   ![v2_result](./pic/v2_result.png)
 
-  ![object_view](/Users/zhangjiang/code/github/BlogProject/springboot_neo4j_example/pic/object_view.png)
+  ![object_view](./pic/object_view.png)
 
 ## 4 总结
 
